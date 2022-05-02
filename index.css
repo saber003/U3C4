@@ -1,0 +1,13 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+#sidebar{
+    margin-top: 5em;
+    margin-left: 2em;
+}
+
+/* h2{
+    cursor: pointer;
+} */
